@@ -49,7 +49,7 @@ func NewLibrary(maxSeats int) *Library {
 	}
 }
 
-// EnterLibrary handles student entry to the library
+// EnterLibrary handles student enter to the library
 func (l *Library) EnterLibrary(s *Student) {
 	l.mu.Lock()
 	s.ArrivalTime = l.hour
