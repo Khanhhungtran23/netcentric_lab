@@ -59,7 +59,7 @@ func main() {
 			default:
 				fmt.Printf("\nServer [%s]: %s\n", msg.Command, msg.Payload)
 			}
-			fmt.Print("> ")
+			// fmt.Print("> ")
 		}
 		// scanner := bufio.NewScanner(conn)
 		// for scanner.Scan() { // loop for each line in data from server sent to us
@@ -155,6 +155,7 @@ func main() {
                 fmt.Println("Not authenticated. Use AUTH username password")
                 continue
 			}
+			
 			var cmdType protocol.CommandType 
 			switch command {
 			case "START":

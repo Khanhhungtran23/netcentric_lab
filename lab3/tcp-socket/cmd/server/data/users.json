@@ -1,0 +1,35 @@
+[
+ {
+  "username": "admin",
+  "password": "MTIz",
+  "fullname": "Admin",
+  "emails": [
+   "admin@gmail.com"
+  ],
+  "addresses": [
+   {
+    "type": "work",
+    "details": "Admin Office"
+   }
+  ]
+ },
+ {
+  "username": "user1",
+  "password": "dXNlcjEyMw==",
+  "fullname": "Test User",
+  "emails": [
+   "user1@example.com",
+   "user1.alt@example.com"
+  ],
+  "addresses": [
+   {
+    "type": "home",
+    "details": "123 Main St"
+   },
+   {
+    "type": "work",
+    "details": "456 Work Ave"
+   }
+  ]
+ }
+]
