@@ -9,13 +9,13 @@ type Engine struct {
 
 // composition define
 type Car struct {
-	Engine
+	Engine // object ?
 	Brand string
 }
 
 // define interface
 type Animal interface {
-	Speak() string
+	Speak() string // this is a func
 }
 
 // struct dog trien khai interface Animal
