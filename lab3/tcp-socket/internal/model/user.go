@@ -19,9 +19,9 @@ type ConnectedClient struct {
 	SessionID 				int	// unique random key
 }
 
-// type GameState struct {
-// 	Target 			int 
-// 	GuessCount 		int
-// 	InProgress		bool 
-// }
+type GameState struct {
+	Target 			int 
+	GuessCount 		int
+	InProgress		bool 
+}
 

@@ -1,0 +1,954 @@
+{
+	"genres": [
+		{
+			"genre": "Action",
+			"manga": [
+				{
+					"title": "The Mafia Nanny",
+					"url": "https://www.webtoons.com/en/romance/the-mafia-nanny/list?title_no=5879",
+					"genre": "Action",
+					"author": "sh00 / Violet Matter"
+				},
+				{
+					"title": "Omniscient Reader",
+					"url": "https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154",
+					"genre": "Action",
+					"author": "singNsong / UMI"
+				},
+				{
+					"title": "The Reborn Young Lord is an Assassin",
+					"url": "https://www.webtoons.com/en/fantasy/the-reborn-young-lord-is-an-assassin/list?title_no=6107",
+					"genre": "Action",
+					"author": "swingbat / CoffeeLime"
+				},
+				{
+					"title": "Teenage Mercenary",
+					"url": "https://www.webtoons.com/en/action/teenage-mercenary/list?title_no=2677",
+					"genre": "Action",
+					"author": "YC / Rakyeon"
+				},
+				{
+					"title": "Oversummoned, Overpowered, and Over It!",
+					"url": "https://www.webtoons.com/en/fantasy/oversummoned-overpowered-and-over-it/list?title_no=7182",
+					"genre": "Action",
+					"author": "Saitousa / Tsugutoku"
+				},
+				{
+					"title": "Eleceed",
+					"url": "https://www.webtoons.com/en/action/eleceed/list?title_no=1571",
+					"genre": "Action",
+					"author": "Jeho Son / ZHENA"
+				},
+				{
+					"title": "The Regressed Mercenary Has a Plan",
+					"url": "https://www.webtoons.com/en/action/the-regressed-mercenary-has-a-plan/list?title_no=7261",
+					"genre": "Action",
+					"author": "JJJSSS / Gold Haeng"
+				},
+				{
+					"title": "Jungle Juice",
+					"url": "https://www.webtoons.com/en/action/jungle-juice/list?title_no=2480",
+					"genre": "Action",
+					"author": "Hyeong Eun / JUDER"
+				},
+				{
+					"title": "Surviving the Game as a Barbarian",
+					"url": "https://www.webtoons.com/en/fantasy/surviving-the-game-as-a-barbarian/list?title_no=5515",
+					"genre": "Action",
+					"author": "MIDNIGHT STUDIO / Team the JICK"
+				},
+				{
+					"title": "The Knight Only Lives Today",
+					"url": "https://www.webtoons.com/en/fantasy/the-knight-only-lives-today/list?title_no=6672",
+					"genre": "Action",
+					"author": "SOULPUNG / IAN"
+				},
+				{
+					"title": "The Veteran Healer is Overpowered",
+					"url": "https://www.webtoons.com/en/fantasy/the-veteran-healer-is-overpowered/list?title_no=7829",
+					"genre": "Action",
+					"author": "jd / Kang Hari"
+				},
+				{
+					"title": "The Extra’s Academy Survival Guide",
+					"url": "https://www.webtoons.com/en/fantasy/the-extras-academy-survival-guide/list?title_no=6465",
+					"genre": "Action",
+					"author": "Korita / GREEN KYRIN"
+				},
+				{
+					"title": "Villain to Kill",
+					"url": "https://www.webtoons.com/en/action/villain-to-kill/list?title_no=2857",
+					"genre": "Action",
+					"author": "Fupin / Eunji"
+				},
+				{
+					"title": "Ultimate Shut-in",
+					"url": "https://www.webtoons.com/en/action/ultimate-shut-in/list?title_no=7457",
+					"genre": "Action",
+					"author": "fantera / RE:one"
+				},
+				{
+					"title": "Hidden Class Gravity User",
+					"url": "https://www.webtoons.com/en/fantasy/hidden-class-gravity-user/list?title_no=6679",
+					"genre": "Action",
+					"author": "Nekoko / Chikuwa"
+				}
+			]
+		},
+		{
+			"genre": "Slice of Life",
+			"manga": [
+				{
+					"title": "The D!ckheads",
+					"url": "https://www.webtoons.com/en/romance/the-dickheads/list?title_no=5114",
+					"genre": "Slice of Life",
+					"author": "GummyBunni"
+				},
+				{
+					"title": "High Class Homos",
+					"url": "https://www.webtoons.com/en/comedy/high-class-homos/list?title_no=2723",
+					"genre": "Slice of Life",
+					"author": "Momozerii"
+				},
+				{
+					"title": "Batman: Wayne Family Adventures",
+					"url": "https://www.webtoons.com/en/slice-of-life/batman-wayne-family-adventures/list?title_no=3180",
+					"genre": "Slice of Life",
+					"author": "StarBite / CRC Payne"
+				},
+				{
+					"title": "In Between",
+					"url": "https://www.webtoons.com/en/romance/in-between/list?title_no=6753",
+					"genre": "Slice of Life",
+					"author": "HBCUL8ER"
+				},
+				{
+					"title": "Press Play, Sami",
+					"url": "https://www.webtoons.com/en/romance/press-play-sami/list?title_no=6670",
+					"genre": "Slice of Life",
+					"author": "kang eun young"
+				},
+				{
+					"title": "My Giant Nerd Boyfriend",
+					"url": "https://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list?title_no=958",
+					"genre": "Slice of Life",
+					"author": "fishball"
+				},
+				{
+					"title": "Seasons of Lovesome",
+					"url": "https://www.webtoons.com/en/romance/seasons-of-lovesome/list?title_no=6881",
+					"genre": "Slice of Life",
+					"author": "HONGDUCK / NEMONE"
+				},
+				{
+					"title": "The Genius Wants an Ordinary Life",
+					"url": "https://www.webtoons.com/en/slice-of-life/the-genius-wants-an-ordinary-life/list?title_no=7634",
+					"genre": "Slice of Life",
+					"author": "Ati / Silk shell"
+				},
+				{
+					"title": "Bluechair",
+					"url": "https://www.webtoons.com/en/slice-of-life/bluechair/list?title_no=199",
+					"genre": "Slice of Life",
+					"author": "Shen"
+				},
+				{
+					"title": "K.O!",
+					"url": "https://www.webtoons.com/en/romance/ko/list?title_no=6244",
+					"genre": "Slice of Life",
+					"author": "Sable Studio"
+				},
+				{
+					"title": "Plus One",
+					"url": "https://www.webtoons.com/en/slice-of-life/plus-one/list?title_no=6208",
+					"genre": "Slice of Life",
+					"author": "Gloria__"
+				},
+				{
+					"title": "Nina Lives Alone",
+					"url": "https://www.webtoons.com/en/comedy/nina-lives-alone/list?title_no=7317",
+					"genre": "Slice of Life",
+					"author": "SgtBaconBurger"
+				},
+				{
+					"title": "Little Hollow Café",
+					"url": "https://www.webtoons.com/en/slice-of-life/little-hollow-cafe/list?title_no=7133",
+					"genre": "Slice of Life",
+					"author": "Vivian Ha / Sam_le_fou"
+				},
+				{
+					"title": "Adventures of God",
+					"url": "https://www.webtoons.com/en/comedy/adventures-of-god/list?title_no=853",
+					"genre": "Slice of Life",
+					"author": "Teo / Corey"
+				},
+				{
+					"title": "Boy-Friend's Rule",
+					"url": "https://www.webtoons.com/en/romance/boy-friends-rule/list?title_no=6133",
+					"genre": "Slice of Life",
+					"author": "Do yoon"
+				}
+			]
+		},
+		{
+			"genre": "Drama",
+			"manga": [
+				{
+					"title": "Love 4 a Walk",
+					"url": "https://www.webtoons.com/en/romance/love-4-a-walk/list?title_no=6278",
+					"genre": "Drama",
+					"author": "Nuria Sanguino"
+				},
+				{
+					"title": "Star Catcher",
+					"url": "https://www.webtoons.com/en/romance/star-catcher/list?title_no=6510",
+					"genre": "Drama",
+					"author": "Ro-taniah"
+				},
+				{
+					"title": "The Remarried Empress",
+					"url": "https://www.webtoons.com/en/fantasy/the-remarried-empress/list?title_no=2135",
+					"genre": "Drama",
+					"author": "Alphatart / Sumpul"
+				},
+				{
+					"title": "To Whom It No Longer Concerns",
+					"url": "https://www.webtoons.com/en/drama/to-whom-it-no-longer-concerns/list?title_no=6476",
+					"genre": "Drama",
+					"author": "LICO / fairydragon"
+				},
+				{
+					"title": "Selfish Romance",
+					"url": "https://www.webtoons.com/en/romance/selfish-romance/list?title_no=6555",
+					"genre": "Drama",
+					"author": "Gyogyo Park"
+				},
+				{
+					"title": "Marionetta",
+					"url": "https://www.webtoons.com/en/fantasy/marionetta/list?title_no=4425",
+					"genre": "Drama",
+					"author": "Míriam Bonastre Tur"
+				},
+				{
+					"title": "The Greatest Estate Developer",
+					"url": "https://www.webtoons.com/en/fantasy/the-greatest-estate-developer/list?title_no=3596",
+					"genre": "Drama",
+					"author": "Lee Hyun Min / Kim Hyunsoo"
+				},
+				{
+					"title": "Maybe Meant to Be",
+					"url": "https://www.webtoons.com/en/romance/maybe-meant-to-be/list?title_no=4208",
+					"genre": "Drama",
+					"author": "honeyskein / damcho"
+				},
+				{
+					"title": "Teenage Mercenary",
+					"url": "https://www.webtoons.com/en/action/teenage-mercenary/list?title_no=2677",
+					"genre": "Drama",
+					"author": "YC / Rakyeon"
+				},
+				{
+					"title": "Our Secret Marriage",
+					"url": "https://www.webtoons.com/en/romance/our-secret-marriage/list?title_no=7487",
+					"genre": "Drama",
+					"author": "Chairunnisa / VBi"
+				},
+				{
+					"title": "The Price Is Your Everything",
+					"url": "https://www.webtoons.com/en/drama/the-price-is-your-everything/list?title_no=6054",
+					"genre": "Drama",
+					"author": "Gones / Haco"
+				},
+				{
+					"title": "This Wasn’t in My Adoption Plan!",
+					"url": "https://www.webtoons.com/en/drama/this-wasnt-in-my-adoption-plan/list?title_no=7566",
+					"genre": "Drama",
+					"author": "Takbon / Il_won"
+				},
+				{
+					"title": "Trapped in a Soap Opera",
+					"url": "https://www.webtoons.com/en/drama/trapped-in-a-soap-opera/list?title_no=6751",
+					"genre": "Drama",
+					"author": "Ganno / Apricot.K"
+				},
+				{
+					"title": "Rules for Dating Trash",
+					"url": "https://www.webtoons.com/en/romance/rules-for-dating-trash/list?title_no=7878",
+					"genre": "Drama",
+					"author": "Seo Yeon"
+				},
+				{
+					"title": "The Regressed Empress’s Abduction Marriage",
+					"url": "https://www.webtoons.com/en/drama/the-regressed-empresss-abduction-marriage/list?title_no=7500",
+					"genre": "Drama",
+					"author": "greeon / Shin EunYe"
+				}
+			]
+		},
+		{
+			"genre": "Comedy",
+			"manga": [
+				{
+					"title": "Ex-Love Review",
+					"url": "https://www.webtoons.com/en/romance/ex-love-review/list?title_no=7697",
+					"genre": "Comedy",
+					"author": "Pyeonggang / La Hee"
+				},
+				{
+					"title": "Iseop’s Romance",
+					"url": "https://www.webtoons.com/en/romance/iseops-romance/list?title_no=5753",
+					"genre": "Comedy",
+					"author": "248 / Anna Kim"
+				},
+				{
+					"title": "Swolemates",
+					"url": "https://www.webtoons.com/en/comedy/swolemates/list?title_no=5112",
+					"genre": "Comedy",
+					"author": "LummyPix"
+				},
+				{
+					"title": "I Am the Villain",
+					"url": "https://www.webtoons.com/en/romance/i-am-the-villain/list?title_no=4937",
+					"genre": "Comedy",
+					"author": "Sejji"
+				},
+				{
+					"title": "Vampire Family",
+					"url": "https://www.webtoons.com/en/comedy/vampire-family/list?title_no=6402",
+					"genre": "Comedy",
+					"author": "unfins"
+				},
+				{
+					"title": "High Class Homos",
+					"url": "https://www.webtoons.com/en/comedy/high-class-homos/list?title_no=2723",
+					"genre": "Comedy",
+					"author": "Momozerii"
+				},
+				{
+					"title": "Batman: Wayne Family Adventures",
+					"url": "https://www.webtoons.com/en/slice-of-life/batman-wayne-family-adventures/list?title_no=3180",
+					"genre": "Comedy",
+					"author": "StarBite / CRC Payne"
+				},
+				{
+					"title": "Fantasy High",
+					"url": "https://www.webtoons.com/en/comedy/fantasy-high/list?title_no=7686",
+					"genre": "Comedy",
+					"author": "Dimension 20 / Denaseey"
+				},
+				{
+					"title": "My Lucky Strike",
+					"url": "https://www.webtoons.com/en/romance/my-lucky-strike/list?title_no=5444",
+					"genre": "Comedy",
+					"author": "bakSSdam"
+				},
+				{
+					"title": "Girlfriend Manual",
+					"url": "https://www.webtoons.com/en/romance/girlfriend-manual/list?title_no=7343",
+					"genre": "Comedy",
+					"author": "saefira (Merlin)"
+				},
+				{
+					"title": "1HP Club",
+					"url": "https://www.webtoons.com/en/fantasy/1hp-club/list?title_no=2960",
+					"genre": "Comedy",
+					"author": "elfboi"
+				},
+				{
+					"title": "Acception",
+					"url": "https://www.webtoons.com/en/drama/acception/list?title_no=1513",
+					"genre": "Comedy",
+					"author": "Colourbee"
+				},
+				{
+					"title": "Can't Get Enough of You",
+					"url": "https://www.webtoons.com/en/romance/cant-get-enough-of-you/list?title_no=6221",
+					"genre": "Comedy",
+					"author": "VODAUVEU / QuornQuorn"
+				},
+				{
+					"title": "The Archmage’s Restaurant",
+					"url": "https://www.webtoons.com/en/fantasy/the-archmages-restaurant/list?title_no=7567",
+					"genre": "Comedy",
+					"author": "Bad boys / Mr.Cha"
+				},
+				{
+					"title": "Roots of the Heart",
+					"url": "https://www.webtoons.com/en/romance/roots-of-the-heart/list?title_no=6134",
+					"genre": "Comedy",
+					"author": "Mewmimiu"
+				}
+			]
+		},
+		{
+			"genre": "Romance",
+			"manga": [
+				{
+					"title": "Love Bites",
+					"url": "https://www.webtoons.com/en/romance/love-bites/list?title_no=7679",
+					"genre": "Romance",
+					"author": "Alicia Wallace / WmW"
+				},
+				{
+					"title": "The Mafia Nanny",
+					"url": "https://www.webtoons.com/en/romance/the-mafia-nanny/list?title_no=5879",
+					"genre": "Romance",
+					"author": "sh00 / Violet Matter"
+				},
+				{
+					"title": "Osora",
+					"url": "https://www.webtoons.com/en/fantasy/osora/list?title_no=6202",
+					"genre": "Romance",
+					"author": "ToniRenea"
+				},
+				{
+					"title": "Down To Earth",
+					"url": "https://www.webtoons.com/en/romance/down-to-earth/list?title_no=1817",
+					"genre": "Romance",
+					"author": "Pookie Senpai"
+				},
+				{
+					"title": "Love 4 a Walk",
+					"url": "https://www.webtoons.com/en/romance/love-4-a-walk/list?title_no=6278",
+					"genre": "Romance",
+					"author": "Nuria Sanguino"
+				},
+				{
+					"title": "Star Catcher",
+					"url": "https://www.webtoons.com/en/romance/star-catcher/list?title_no=6510",
+					"genre": "Romance",
+					"author": "Ro-taniah"
+				},
+				{
+					"title": "Not Your Typical Reincarnation Story",
+					"url": "https://www.webtoons.com/en/romance/not-your-typical-reincarnation-story/list?title_no=5556",
+					"genre": "Romance",
+					"author": "Lemon Frog / A-jin"
+				},
+				{
+					"title": "The Beloved Incompetent Stepmom",
+					"url": "https://www.webtoons.com/en/romance/the-beloved-incompetent-stepmom/list?title_no=7492",
+					"genre": "Romance",
+					"author": "Tsuruko Maruko / irukura"
+				},
+				{
+					"title": "Selfish Romance",
+					"url": "https://www.webtoons.com/en/romance/selfish-romance/list?title_no=6555",
+					"genre": "Romance",
+					"author": "Gyogyo Park"
+				},
+				{
+					"title": "Ex-Love Review",
+					"url": "https://www.webtoons.com/en/romance/ex-love-review/list?title_no=7697",
+					"genre": "Romance",
+					"author": "Pyeonggang / La Hee"
+				},
+				{
+					"title": "Duchess in Ruins",
+					"url": "https://www.webtoons.com/en/romance/duchess-in-ruins/list?title_no=7109",
+					"genre": "Romance",
+					"author": "Candlebambi / Saedle"
+				},
+				{
+					"title": "My Child Will Have a Different Father",
+					"url": "https://www.webtoons.com/en/fantasy/my-child-will-have-a-different-father/list?title_no=7172",
+					"genre": "Romance",
+					"author": "Team Chung-Yeon / TAPAHA"
+				},
+				{
+					"title": "Iseop’s Romance",
+					"url": "https://www.webtoons.com/en/romance/iseops-romance/list?title_no=5753",
+					"genre": "Romance",
+					"author": "248 / Anna Kim"
+				},
+				{
+					"title": "Swolemates",
+					"url": "https://www.webtoons.com/en/comedy/swolemates/list?title_no=5112",
+					"genre": "Romance",
+					"author": "LummyPix"
+				},
+				{
+					"title": "Maybe Meant to Be",
+					"url": "https://www.webtoons.com/en/romance/maybe-meant-to-be/list?title_no=4208",
+					"genre": "Romance",
+					"author": "honeyskein / damcho"
+				}
+			]
+		},
+		{
+			"genre": "Superhero",
+			"manga": [
+				{
+					"title": "Hand Jumper",
+					"url": "https://www.webtoons.com/en/thriller/hand-jumper/list?title_no=2702",
+					"genre": "Superhero",
+					"author": "SLEEPACROSS"
+				},
+				{
+					"title": "Villain with a Crush",
+					"url": "https://www.webtoons.com/en/romance/villain-with-a-crush/list?title_no=5048",
+					"genre": "Superhero",
+					"author": "seyoon"
+				},
+				{
+					"title": "The Executioner",
+					"url": "https://www.webtoons.com/en/action/the-executioner/list?title_no=6148",
+					"genre": "Superhero",
+					"author": "Lee Jehwan / Park Bumjin"
+				},
+				{
+					"title": "The Superhuman Era",
+					"url": "https://www.webtoons.com/en/super-hero/the-superhuman-era/list?title_no=6668",
+					"genre": "Superhero",
+					"author": "Supp"
+				},
+				{
+					"title": "Supervillainy",
+					"url": "https://www.webtoons.com/en/comedy/supervillainy/list?title_no=3759",
+					"genre": "Superhero",
+					"author": "Razz G."
+				},
+				{
+					"title": "Magic School Girl: Spare No Villains",
+					"url": "https://www.webtoons.com/en/fantasy/magic-school-girl-spare-no-villains/list?title_no=5397",
+					"genre": "Superhero",
+					"author": "wong-wong-i"
+				},
+				{
+					"title": "Hero the Maximum",
+					"url": "https://www.webtoons.com/en/super-hero/hero-the-maximum/list?title_no=5831",
+					"genre": "Superhero",
+					"author": "JAEYI PARK"
+				},
+				{
+					"title": "Red Hood: Outlaws",
+					"url": "https://www.webtoons.com/en/action/red-hood-outlaws/list?title_no=4603",
+					"genre": "Superhero",
+					"author": "Nico Bascuñan / Patrick R. Young"
+				},
+				{
+					"title": "Toaster Dude",
+					"url": "https://www.webtoons.com/en/comedy/toaster-dude/list?title_no=1983",
+					"genre": "Superhero",
+					"author": "littlebobler / soaporsalad"
+				},
+				{
+					"title": "The Fever King",
+					"url": "https://www.webtoons.com/en/super-hero/the-fever-king/list?title_no=1659",
+					"genre": "Superhero",
+					"author": "Victoria Lee / SaraDeek"
+				},
+				{
+					"title": "Vixen: NYC",
+					"url": "https://www.webtoons.com/en/super-hero/vixen-nyc/list?title_no=4169",
+					"genre": "Superhero",
+					"author": "Jasmine Walls / Manou Azumi"
+				},
+				{
+					"title": "SAMADHI",
+					"url": "https://www.webtoons.com/en/super-hero/samadhi/list?title_no=3049",
+					"genre": "Superhero",
+					"author": "LEE WONSIK / GGULCHAN"
+				},
+				{
+					"title": "I Don't Want This Kind of Hero",
+					"url": "https://www.webtoons.com/en/super-hero/i-dont-want-this-kind-of-hero/list?title_no=98",
+					"genre": "Superhero",
+					"author": "samchon"
+				},
+				{
+					"title": "REAWAKENED MAN",
+					"url": "https://www.webtoons.com/en/action/reawaken-man/list?title_no=3173",
+					"genre": "Superhero",
+					"author": "Yongtaek Chae / Jaehan Kim"
+				},
+				{
+					"title": "Arma",
+					"url": "https://www.webtoons.com/en/super-hero/arma/list?title_no=1640",
+					"genre": "Superhero",
+					"author": "SGT"
+				}
+			]
+		},
+		{
+			"genre": "Horror",
+			"manga": [
+				{
+					"title": "Death Is My BFF",
+					"url": "https://www.webtoons.com/en/supernatural/death-is-my-bff/list?title_no=7687",
+					"genre": "Horror",
+					"author": "Katarina E. Tonks / Kisai Entertainment"
+				},
+				{
+					"title": "Funtime Phobia",
+					"url": "https://www.webtoons.com/en/romance/funtime-phobia/list?title_no=7346",
+					"genre": "Horror",
+					"author": "Starberry Circus"
+				},
+				{
+					"title": "Don't Read This",
+					"url": "https://www.webtoons.com/en/horror/dont-read-this/list?title_no=6018",
+					"genre": "Horror",
+					"author": "I Drink Mercury"
+				},
+				{
+					"title": "The Dummy's Dummy",
+					"url": "https://www.webtoons.com/en/horror/the-dummys-dummy/list?title_no=2874",
+					"genre": "Horror",
+					"author": "Mochamura"
+				},
+				{
+					"title": "Why You Shouldn't Enter a Haunted House",
+					"url": "https://www.webtoons.com/en/horror/why-you-shouldnt-enter-a-haunted-house/list?title_no=7861",
+					"genre": "Horror",
+					"author": "BRICK"
+				},
+				{
+					"title": "My Girlfriend",
+					"url": "https://www.webtoons.com/en/thriller/my-girlfriend/list?title_no=6887",
+					"genre": "Horror",
+					"author": "Park_ci"
+				},
+				{
+					"title": "Manny",
+					"url": "https://www.webtoons.com/en/horror/manny/list?title_no=6279",
+					"genre": "Horror",
+					"author": "A.Rasen"
+				},
+				{
+					"title": "The Gwichon Village Mystery",
+					"url": "https://www.webtoons.com/en/thriller/the-gwichon-village-mystery/list?title_no=6667",
+					"genre": "Horror",
+					"author": "Daehan LEE / YELLOW_SHEEP"
+				},
+				{
+					"title": "Zombie Revelation: 82-08",
+					"url": "https://www.webtoons.com/en/action/zombie-revelation-82-08/list?title_no=6065",
+					"genre": "Horror",
+					"author": "Dal ah / Kyung woo"
+				},
+				{
+					"title": "The Last Passage",
+					"url": "https://www.webtoons.com/en/horror/the-last-passage/list?title_no=6746",
+					"genre": "Horror",
+					"author": "RD / KIRO"
+				},
+				{
+					"title": "Nocturne",
+					"url": "https://www.webtoons.com/en/horror/nocturne/list?title_no=4844",
+					"genre": "Horror",
+					"author": "Fyyaa123"
+				},
+				{
+					"title": "Tales of the Unusual 2",
+					"url": "https://www.webtoons.com/en/horror/tales-of-the-unusual-2/list?title_no=6854",
+					"genre": "Horror",
+					"author": "Seongdae Oh"
+				},
+				{
+					"title": "There Are No Demons",
+					"url": "https://www.webtoons.com/en/thriller/there-are-no-demons/list?title_no=5725",
+					"genre": "Horror",
+					"author": "Nemo Nullus"
+				},
+				{
+					"title": "Moonchild",
+					"url": "https://www.webtoons.com/en/horror/moonchild/list?title_no=5122",
+					"genre": "Horror",
+					"author": "OHNYUN"
+				},
+				{
+					"title": "Spore",
+					"url": "https://www.webtoons.com/en/thriller/spore/list?title_no=5895",
+					"genre": "Horror",
+					"author": "Lee kang"
+				}
+			]
+		},
+		{
+			"genre": "SciFi",
+			"manga": [
+				{
+					"title": "Down To Earth",
+					"url": "https://www.webtoons.com/en/romance/down-to-earth/list?title_no=1817",
+					"genre": "SciFi",
+					"author": "Pookie Senpai"
+				},
+				{
+					"title": "HAZESHIFT",
+					"url": "https://www.webtoons.com/en/sf/hazeshift/list?title_no=7576",
+					"genre": "SciFi",
+					"author": "LEIKOI"
+				},
+				{
+					"title": "Phase",
+					"url": "https://www.webtoons.com/en/romance/phase/list?title_no=2117",
+					"genre": "SciFi",
+					"author": "Jouki"
+				},
+				{
+					"title": "Bad Born Blood",
+					"url": "https://www.webtoons.com/en/action/bad-born-blood/list?title_no=7208",
+					"genre": "SciFi",
+					"author": "D-Park / Pumpkinbird"
+				},
+				{
+					"title": "City of Blank",
+					"url": "https://www.webtoons.com/en/sf/city-of-blank/list?title_no=1895",
+					"genre": "SciFi",
+					"author": "66"
+				},
+				{
+					"title": "Hiding a Warehouse in the Apocalypse",
+					"url": "https://www.webtoons.com/en/action/hiding-a-warehouse-in-the-apocalypse/list?title_no=7181",
+					"genre": "SciFi",
+					"author": "Saint Nine / Jaedeok Wang"
+				},
+				{
+					"title": "Space Boy",
+					"url": "https://www.webtoons.com/en/sf/space-boy/list?title_no=400",
+					"genre": "SciFi",
+					"author": "Stephen McCranie"
+				},
+				{
+					"title": "The Prince of Southland",
+					"url": "https://www.webtoons.com/en/romance/the-prince-of-southland/list?title_no=2522",
+					"genre": "SciFi",
+					"author": "Chris Geroux"
+				},
+				{
+					"title": "Rebirth",
+					"url": "https://www.webtoons.com/en/sf/rebirth/list?title_no=1412",
+					"genre": "SciFi",
+					"author": "Michi"
+				},
+				{
+					"title": "No Kids Zone",
+					"url": "https://www.webtoons.com/en/sf/no-kids-zone/list?title_no=7779",
+					"genre": "SciFi",
+					"author": "MemeMachine / RIGHT HAND"
+				},
+				{
+					"title": "Red Spine",
+					"url": "https://www.webtoons.com/en/action/red-spine/list?title_no=6845",
+					"genre": "SciFi",
+					"author": "Zeroci"
+				},
+				{
+					"title": "The Last Dimension",
+					"url": "https://www.webtoons.com/en/sf/the-last-dimension/list?title_no=3174",
+					"genre": "SciFi",
+					"author": "Leaglem"
+				},
+				{
+					"title": "Space Cheon-ma 3077",
+					"url": "https://www.webtoons.com/en/fantasy/space-cheon-ma-3077/list?title_no=7364",
+					"genre": "SciFi",
+					"author": "GreenFox / Kimdaeyeong"
+				},
+				{
+					"title": "Quantum Entanglement",
+					"url": "https://www.webtoons.com/en/romance/quantum-entanglement/list?title_no=5775",
+					"genre": "SciFi",
+					"author": "Arts Angel"
+				},
+				{
+					"title": "False Paradise",
+					"url": "https://www.webtoons.com/en/sf/false-paradise/list?title_no=7404",
+					"genre": "SciFi",
+					"author": "samchon"
+				}
+			]
+		},
+		{
+			"genre": "Thriller",
+			"manga": [
+				{
+					"title": "Hand Jumper",
+					"url": "https://www.webtoons.com/en/thriller/hand-jumper/list?title_no=2702",
+					"genre": "Thriller",
+					"author": "SLEEPACROSS"
+				},
+				{
+					"title": "Homesick",
+					"url": "https://www.webtoons.com/en/thriller/homesick/list?title_no=2759",
+					"genre": "Thriller",
+					"author": "Ms. Freaky"
+				},
+				{
+					"title": "Clinic of Horrors",
+					"url": "https://www.webtoons.com/en/supernatural/clinic-of-horrors/list?title_no=3414",
+					"genre": "Thriller",
+					"author": "Merryweather"
+				},
+				{
+					"title": "Beneath the Trees Where Nobody Sees",
+					"url": "https://www.webtoons.com/en/graphic-novel/beneath-the-trees-where-nobody-sees/list?title_no=7680",
+					"genre": "Thriller",
+					"author": "IDW Publishing"
+				},
+				{
+					"title": "Like Mother, Like Daughter",
+					"url": "https://www.webtoons.com/en/drama/like-mother-like-daughter/list?title_no=5734",
+					"genre": "Thriller",
+					"author": "YIDAHM"
+				},
+				{
+					"title": "Sisters at War",
+					"url": "https://www.webtoons.com/en/drama/sisters-at-war/list?title_no=4940",
+					"genre": "Thriller",
+					"author": "Maenggi Ki"
+				},
+				{
+					"title": "Rebirth",
+					"url": "https://www.webtoons.com/en/sf/rebirth/list?title_no=1412",
+					"genre": "Thriller",
+					"author": "Michi"
+				},
+				{
+					"title": "Surviving the Apocalypse",
+					"url": "https://www.webtoons.com/en/thriller/surviving-the-apocalypse/list?title_no=6678",
+					"genre": "Thriller",
+					"author": "SONG"
+				},
+				{
+					"title": "Locked Up by My Mad Dog",
+					"url": "https://www.webtoons.com/en/romance/locked-up-by-my-mad-dog/list?title_no=7368",
+					"genre": "Thriller",
+					"author": "Hangaga / Choi Hwain"
+				},
+				{
+					"title": "Don't Read This",
+					"url": "https://www.webtoons.com/en/horror/dont-read-this/list?title_no=6018",
+					"genre": "Thriller",
+					"author": "I Drink Mercury"
+				},
+				{
+					"title": "The Dummy's Dummy",
+					"url": "https://www.webtoons.com/en/horror/the-dummys-dummy/list?title_no=2874",
+					"genre": "Thriller",
+					"author": "Mochamura"
+				},
+				{
+					"title": "Phantom Whispers",
+					"url": "https://www.webtoons.com/en/thriller/phantom-whispers/list?title_no=6882",
+					"genre": "Thriller",
+					"author": "moonkyoung kim"
+				},
+				{
+					"title": "Replaced",
+					"url": "https://www.webtoons.com/en/thriller/replaced/list?title_no=6507",
+					"genre": "Thriller",
+					"author": "ⓃⒾⒸⓄ"
+				},
+				{
+					"title": "Justice Deserved",
+					"url": "https://www.webtoons.com/en/action/justice-deserved/list?title_no=7778",
+					"genre": "Thriller",
+					"author": "LEE Sihyun"
+				},
+				{
+					"title": "Writers Legacy",
+					"url": "https://www.webtoons.com/en/action/writers-legacy/list?title_no=7255",
+					"genre": "Thriller",
+					"author": "Jeffon / Nina D, Oto-San"
+				}
+			]
+		},
+		{
+			"genre": "Fantasy",
+			"manga": [
+				{
+					"title": "Osora",
+					"url": "https://www.webtoons.com/en/fantasy/osora/list?title_no=6202",
+					"genre": "Fantasy",
+					"author": "ToniRenea"
+				},
+				{
+					"title": "The Remarried Empress",
+					"url": "https://www.webtoons.com/en/fantasy/the-remarried-empress/list?title_no=2135",
+					"genre": "Fantasy",
+					"author": "Alphatart / Sumpul"
+				},
+				{
+					"title": "To Whom It No Longer Concerns",
+					"url": "https://www.webtoons.com/en/drama/to-whom-it-no-longer-concerns/list?title_no=6476",
+					"genre": "Fantasy",
+					"author": "LICO / fairydragon"
+				},
+				{
+					"title": "Not Your Typical Reincarnation Story",
+					"url": "https://www.webtoons.com/en/romance/not-your-typical-reincarnation-story/list?title_no=5556",
+					"genre": "Fantasy",
+					"author": "Lemon Frog / A-jin"
+				},
+				{
+					"title": "The Beloved Incompetent Stepmom",
+					"url": "https://www.webtoons.com/en/romance/the-beloved-incompetent-stepmom/list?title_no=7492",
+					"genre": "Fantasy",
+					"author": "Tsuruko Maruko / irukura"
+				},
+				{
+					"title": "Omniscient Reader",
+					"url": "https://www.webtoons.com/en/action/omniscient-reader/list?title_no=2154",
+					"genre": "Fantasy",
+					"author": "singNsong / UMI"
+				},
+				{
+					"title": "Marionetta",
+					"url": "https://www.webtoons.com/en/fantasy/marionetta/list?title_no=4425",
+					"genre": "Fantasy",
+					"author": "Míriam Bonastre Tur"
+				},
+				{
+					"title": "The Greatest Estate Developer",
+					"url": "https://www.webtoons.com/en/fantasy/the-greatest-estate-developer/list?title_no=3596",
+					"genre": "Fantasy",
+					"author": "Lee Hyun Min / Kim Hyunsoo"
+				},
+				{
+					"title": "Duchess in Ruins",
+					"url": "https://www.webtoons.com/en/romance/duchess-in-ruins/list?title_no=7109",
+					"genre": "Fantasy",
+					"author": "Candlebambi / Saedle"
+				},
+				{
+					"title": "My Child Will Have a Different Father",
+					"url": "https://www.webtoons.com/en/fantasy/my-child-will-have-a-different-father/list?title_no=7172",
+					"genre": "Fantasy",
+					"author": "Team Chung-Yeon / TAPAHA"
+				},
+				{
+					"title": "The Reborn Young Lord is an Assassin",
+					"url": "https://www.webtoons.com/en/fantasy/the-reborn-young-lord-is-an-assassin/list?title_no=6107",
+					"genre": "Fantasy",
+					"author": "swingbat / CoffeeLime"
+				},
+				{
+					"title": "A Savage Proposal",
+					"url": "https://www.webtoons.com/en/romance/a-savage-proposal/list?title_no=7121",
+					"genre": "Fantasy",
+					"author": "Lee yuna / team IRUKA"
+				},
+				{
+					"title": "I'm a Villainess, but I Won't Live Like One",
+					"url": "https://www.webtoons.com/en/romance/im-a-villainess-but-i-wont-live-like-one/list?title_no=7688",
+					"genre": "Fantasy",
+					"author": "Studio wooridle / Hwang DoTol"
+				},
+				{
+					"title": "The Price Is Your Everything",
+					"url": "https://www.webtoons.com/en/drama/the-price-is-your-everything/list?title_no=6054",
+					"genre": "Fantasy",
+					"author": "Gones / Haco"
+				},
+				{
+					"title": "Oversummoned, Overpowered, and Over It!",
+					"url": "https://www.webtoons.com/en/fantasy/oversummoned-overpowered-and-over-it/list?title_no=7182",
+					"genre": "Fantasy",
+					"author": "Saitousa / Tsugutoku"
+				}
+			]
+		}
+	]
+}
